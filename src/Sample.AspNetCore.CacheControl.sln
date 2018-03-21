@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.AspNetCore.CacheControl", "Sample.AspNetCore.CacheControl\Sample.AspNetCore.CacheControl.csproj", "{2EDAB066-E258-4554-9F39-73222852E825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.DotNetCore.Client", "Sample.DotNetCore.Client\Sample.DotNetCore.Client.csproj", "{FFF440BB-51A0-44FD-AB59-122E99AB1529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDAB066-E258-4554-9F39-73222852E825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDAB066-E258-4554-9F39-73222852E825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDAB066-E258-4554-9F39-73222852E825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDAB066-E258-4554-9F39-73222852E825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF440BB-51A0-44FD-AB59-122E99AB1529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF440BB-51A0-44FD-AB59-122E99AB1529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF440BB-51A0-44FD-AB59-122E99AB1529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF440BB-51A0-44FD-AB59-122E99AB1529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87B0037-9B94-44F9-B4C7-68DB68B82776}
+	EndGlobalSection
+EndGlobal
